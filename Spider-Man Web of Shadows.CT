@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="46">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>88912</ID>
+      <Description>"Enemy Damage"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Spider-Man Web of Shadows.exe+BFFAC4</Address>
+      <Offsets>
+        <Offset>40</Offset>
+        <Offset>0</Offset>
+        <Offset>04</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols>
+    <SymbolEntry>
+      <Name>speedModifier</Name>
+      <Address>9350000</Address>
+    </SymbolEntry>
+  </UserdefinedSymbols>
+</CheatTable>
